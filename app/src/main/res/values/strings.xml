@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Leave</string>
+    <string name="choose_doc">Choose a Supporting Document:</string>
+    <string-array name="documents">
+        <item>Thermometer</item>
+        <item>X-Ray</item>
+        <item>Wedding Card</item>
+        <item>Death Certificate</item>
+    </string-array>
+</resources>
